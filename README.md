@@ -58,5 +58,5 @@ As such :
 
 All Set !
 <br>
-Feature enabled / 🍾
+Feature enabled  🍾
 
