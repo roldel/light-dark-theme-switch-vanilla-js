@@ -3,10 +3,16 @@
 
 This implementation prevents FOUC ( Flash of unstyled content ) by hidding the page body, until the theme toggler js script has been invoked and run, and the appropriate CSS attribute set
 
+
+https://github.com/user-attachments/assets/c8abbb1c-3ea1-4911-8a22-1e9f26763f97
+
+<br>
+<br>
+
 The js script will inject a light / dark toggle button in the upper right corner of the page using the absolute positon
 <br>
 <br>
-So the only thing you have to worry about is to add the 2 following elements, on every page where you want to enable the light dark mode switch feature :
+The only thing you have to worry about is to add the 2 following elements, on every page where you want to enable the light dark mode switch feature :
 
 <br>
 <br>
