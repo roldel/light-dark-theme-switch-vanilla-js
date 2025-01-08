@@ -31,6 +31,7 @@
     // Dynamically inject the theme toggle button
     const themeToggleButton = document.createElement('button');
     themeToggleButton.id = 'themeToggleButton';
+    themeToggleButton.setAttribute('aria-label', 'Toggle between light and dark mode');
     themeToggleButton.classList.add('theme-toggle-button');
     themeToggleButton.addEventListener('click', toggleTheme);
     document.body.appendChild(themeToggleButton);
