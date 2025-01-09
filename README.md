@@ -3,7 +3,11 @@
 
 This implementation prevents FOUC ( Flash of unstyled content ) by blocking the page body display, until the theme toggler js script has been invoked and run, and the appropriate CSS attribute set
 
-[Watch the demo](https://github.com/roldel/light-dark-theme-switch-vanilla-js/blob/main/lightdarkthemedemo.mov)
+
+
+https://github.com/user-attachments/assets/e3d19b43-fb76-42c4-bf3f-a9c7780858ea
+
+
 
 <br>
 <br>
